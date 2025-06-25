@@ -64,7 +64,7 @@ function debounce(fn, ms = 200) {
 /* ──────────────────────── Data Fetching ─────────────────────────────── */
 async function loadRestaurants() {
   try {
-    const res = await fetch("/restaurants");
+    const res = await fetch("data/restaurants.json");  // <-- fetch JSON as a static file
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     restaurants = await res.json();
     renderRestaurants(restaurants);       // initial render
@@ -74,6 +74,7 @@ async function loadRestaurants() {
       "Sorry, we couldn’t load restaurants.";
   }
 }
+
 
 /* ───────────────────────── Rendering Logic ──────────────────────────── */
 /**

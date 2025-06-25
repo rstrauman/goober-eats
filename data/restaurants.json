@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "McDonald's",
-        "image": "/Images/mcdonalds.png",
+        "image": "Images/mcdonalds.png",
         "deliveryFee": 1.99,
         "rating": 4.8,
         "location": "125 McDonald St, McDonaldVille"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Burger King",
-        "image": "/Images/burgerking.png",
+        "image": "Images/burgerking.png",
         "deliveryFee": 0.99,
         "rating": 4.1,
         "location": "500 King St, McDonaldVille"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "Subway",
-        "image": "/Images/subway.png",
+        "image": "Images/subway.png",
         "deliveryFee": 1.99,
         "rating": 4.4,
         "location": "707 Eat-Fresh St, McDonaldVille"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "KFC",
-        "image": "/Images/KFC.png",
+        "image": "Images/KFC.png",
         "deliveryFee": 2.99,
         "rating": 3.9,
         "location": "4005 Kentucky St, McDonaldVille"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Popeyes",
-        "image": "/Images/popeyes.png",
+        "image": "Images/popeyes.png",
         "deliveryFee": 4.99,
         "rating": 4.2,
         "location": "303 Popeye St, McDonaldVille"
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "name": "Taco Bell",
-        "image": "/Images/tacobell.png",
+        "image": "Images/tacobell.png",
         "deliveryFee": 2.99,
         "rating": 3.7,
         "location": "123 Taco St, McDonaldVille"
@@ -50,7 +50,7 @@
     {
         "id": 7,
         "name": "7-11",
-        "image": "/Images/711.png",
+        "image": "Images/711.png",
         "deliveryFee": 0.99,
         "rating": 4.6,
         "location": "7 11 St, McDonaldVille"
@@ -58,7 +58,7 @@
     {
         "id": 8,
         "name": "Wendy's",
-        "image": "/Images/wendys.png",
+        "image": "Images/wendys.png",
         "deliveryFee": 1.99,
         "rating": 4.2,
         "location": "204 Wendy, McDonaldVille"
