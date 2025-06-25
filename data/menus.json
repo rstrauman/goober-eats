@@ -3,7 +3,7 @@
   {
     "id": 101,
     "name": "Big Mac",
-    "image": "/Images/bigmac.png",
+    "image": "Images/bigmac.png",
     "description": "Two all-beef patties, with special Big Mac sauce.",
     "category": "burgers",
     "imageBackground": "../Images/mcdonalds.png",
