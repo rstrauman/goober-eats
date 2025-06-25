@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Menu</title>
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- Font Awesome for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+</head>
+<body>
+
+  <!-- ===== Top Navigation Buttons ===== -->
+  <header>
+    <div id="rightSide">
+      <button id="search" class="fas fa-magnifying-glass"></button>
+      <button id="home" class="fa-solid fa-house"></button>
+      <button id="cart" class="fas fa-shopping-cart"></button>
+    </div>
+  </header>
+
+  <!-- ===== Restaurant Banner + Info ===== -->
+  <div id="restaurant-header">
+    <img id="restaurant-banner-image" alt="Restaurant Banner" />
+    
+    <header>
+      <h1 id="restaurant-name">Loading...</h1>
+      <input type="text" id="restaurant-search" placeholder="Search menu..." />
+    </header>
+  </div>
+
+  <div id="restaurant-info">
+    <p id="restaurant-rating"></p>
+    <p id="restaurant-fee"></p>
+    <p id="restaurant-location"></p>
+  </div>
+
+  <!-- ===== Menu Filters & Content ===== -->
+  <div class="wholeMenu">
+    <!-- Menu Filters Sidebar -->
+    <aside class="filters">
+      <ul>
+        <li><button data-filter="all" class="active">All</button></li>
+        <li><button data-filter="burgers" class="filter-button" data-filter="burgers">Burgers</button></li>
+        <li><button data-filter="sides" class="filter-button" data-filter="sides">Sides</button></li>
+        <li><button data-filter="meals" class="filter-button" data-filter="meals">Meals</button></li>
+        <li><button data-filter="sweets" class="filter-button" data-filter="sweets">Sweets & Treats</button></li>
+        <li><button data-filter="drinks" class="filter-button" data-filter="drinks">Drinks</button></li>
+        <li><button data-filter="other" class="filter-button" data-filter="other">Miscellaneous</button></li>
+      </ul>
+    </aside>
+
+    <!-- Menu Items Container -->
+    <main>
+      <div id="menu-container"></div>
+    </main>
+  </div>
+
+  <!-- ===== Customization Modal ===== -->
+  <div id="customization-modal" class="modal">
+    <div class="modal-content">
+      <span class="close-button">&times;</span>
+      <h2>Item Name</h2>
+      <p>Description here...</p>
+      <button id="add-to-cart-btn">Add to Cart</button>
+    </div>
+  </div>
+
+  <!-- ===== Scripts ===== -->
+  <script src="menu-script.js"></script>
+</body>
+</html>
+
+

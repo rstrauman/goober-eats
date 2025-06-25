@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Goober Eats</title>
+
+  <!-- Main Styles -->
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- Font Awesome for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+</head>
+<body>
+
+  <!-- ===== Header (Top Bar) ===== -->
+  <header>
+    <select id="address">
+      <option value="">123 Madeup</option>
+    </select>
+    
+    <div id="rightSide">
+      <button id="search" class="fas fa-magnifying-glass"></button>
+      <input id="search-input" type="text" placeholder="Search restaurants..." />
+      <button id="notifications" class="fas fa-bell"></button>
+      <button id="cart" class="fas fa-shopping-cart"></button>
+    </div>
+  </header>
+
+  <!-- ===== Navigation Options ===== -->
+  <nav>
+    <!-- Category Filters (text buttons) -->
+    <div id="menuOptions">
+      <button class="shoppingOptions">All</button>
+      <button class="shoppingOptions">Grocery</button>
+      <button class="shoppingOptions">Convenience</button>
+      <button class="shoppingOptions">Alcohol</button>
+      <button class="shoppingOptions">Health</button>
+      <button class="shoppingOptions">Gourmet</button>
+      <button class="shoppingOptions">Retail</button>
+      <button class="shoppingOptions">Pet</button>
+      <button class="shoppingOptions">Flowers</button>
+      <button class="shoppingOptions">Baby</button>
+      <button class="shoppingOptions">Personal Care</button>
+      <button class="shoppingOptions">Electronics</button>
+    </div>
+
+    <!-- Category Filters (icon buttons) -->
+    <div id="foodOptions">
+      <button class="foods"><img src="../Images/banana-milk.png" alt="Grocery" class="menuIcons" />Grocery</button>
+      <button class="foods"><img src="../Images/potato-chips.png" alt="Convenience" class="menuIcons" />Convenience</button>
+      <button class="foods"><img src="../Images/french-fries.png" alt="Fast Food" class="menuIcons" />Fast Food</button>
+      <button class="foods"><img src="../Images/pizza.png" alt="Pizza" class="menuIcons" />Pizza</button>
+      <button class="foods"><img src="../Images/tacos.png" alt="Mexican" class="menuIcons" />Mexican</button>
+      <button class="foods"><img src="../Images/nigiri.png" alt="Sushi" class="menuIcons" />Sushi</button>
+      <button class="foods"><img src="../Images/masala-dosa.png" alt="Indian" class="menuIcons" />Indian</button>
+      <button class="foods"><img src="../Images/liquor.png" alt="Alcohol" class="menuIcons" />Alcohol</button>
+      <button class="foods"><img src="../Images/soda.png" alt="Drinks" class="menuIcons" />Drinks</button>
+      <button class="foods"><img src="../Images/cake.png" alt="Dessert" class="menuIcons" />Desserts</button>
+      <button class="foods"><img src="../Images/food.png" alt="Specialty" class="menuIcons" />Specialty</button>
+    </div>
+
+    <!-- User Filters (sorting, delivery time, ratings, etc.) -->
+    <div id="userOptions">
+      <button class="userItems">Best Overall</button>
+      <button class="userItems">Pickup</button>
+      <button class="userItems">Offers</button>
+
+      <select name="deliveryFee" class="userDrop">
+        <option class="userItems">Delivery Fee</option>
+      </select>
+
+      <button class="userItems">Under 30 min</button>
+
+      <select name="Rating" class="userDrop">
+        <option class="userItems">Rating</option>
+      </select>
+
+      <select name="Price" class="userDrop">
+        <option class="userItems">Price</option>
+      </select>
+
+      <select name="Dietary" class="userDrop">
+        <option class="userItems">Dietary</option>
+      </select>
+
+      <select name="Sort" class="userDrop">
+        <option class="userItems">Sort</option>
+      </select>
+    </div>
+  </nav>
+
+  <!-- ===== Restaurant Listing Section ===== -->
+  <main>
+    <div id="restaurant-list"></div>
+  </main>
+
+  <!-- ===== Scripts ===== -->
+  <script src="script.js"></script>
+</body>
+</html>
