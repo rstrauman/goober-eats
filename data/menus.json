@@ -35,7 +35,7 @@
   {
     "id": 102,
     "name": "Fries",
-    "image": "/Images/fries.png",
+    "image": "Images/fries.png",
     "description": "World Famous Fries.",
     "category": "sides",
     "price": 4.99,
@@ -56,7 +56,7 @@
   {
     "id": 103,
     "name": "6 Piece Chicken Nuggets",
-    "image": "/Images/nuggies.png",
+    "image": "Images/nuggies.png",
     "description": "Golden crispy Nuggets.",
     "category": "chicken",
     "price": 6.99,
@@ -76,7 +76,7 @@
   {
     "id": 104,
     "name": "Quarter Pounder With Cheese",
-    "image": "/Images/pounder.png",
+    "image": "Images/pounder.png",
     "description": "1/4 Pound All-Beef Patty.",
     "category": "burgers",
     "price": 6.59,
@@ -107,7 +107,7 @@
   {
     "id": 105,
     "name": "McDouble",
-    "image": "/Images/mcdouble.png",
+    "image": "Images/mcdouble.png",
     "description": "Quick and Delicious Two Patty Snack.",
     "price": 3.59,
     "customizations": [
@@ -137,7 +137,7 @@
   {
     "id": 106,
     "name": "Cheeseburger",
-    "image": "/Images/cheeseburger.png",
+    "image": "Images/cheeseburger.png",
     "description": "Classic Cheeseburger.",
     "category": "burgers",
     "price": 2.99,
@@ -168,7 +168,7 @@
   {
     "id": 107,
     "name": "Poutine",
-    "image": "/Images/poutine.png",
+    "image": "Images/poutine.png",
     "description": "World Famous Fries With Cheese Curds And Gravy.",
     "category": "sides",
     "price": 8.99,
@@ -196,7 +196,7 @@
   {
     "id": 108,
     "name": "Oreo McFlurry",
-    "image": "/Images/oreo.png",
+    "image": "Images/oreo.png",
     "description": "Creamy Softserve Mixed With Oreo!",
     "category": "sweets",
     "price": 4.99,
@@ -217,7 +217,7 @@
   {
     "id": 201,
     "name": "Whopper",
-    "image": "/Images/whopper.png",
+    "image": "Images/whopper.png",
     "description": "Flame-Grilled Burger.",
     "category": "burgers",
     "price": 6.49,
@@ -248,7 +248,7 @@
   {
     "id": 202,
     "name": "Fries",
-    "image": "/Images/bkfries.png",
+    "image": "Images/bkfries.png",
     "description": "Krispy Homemade Fries.",
     "category": "sides",
     "price": 3.99,
@@ -269,7 +269,7 @@
   {
     "id": 203,
     "name": "Whopper Jr",
-    "image": "/Images/whoperjr.png",
+    "image": "Images/whoperjr.png",
     "description": "Delicious Whopper, but Smaller.",
     "category": "burgers",
     "price": 2.99,
@@ -300,7 +300,7 @@
   {
     "id": 204,
     "name": "Chicken Fries",
-    "image": "/Images/chickenfries.png",
+    "image": "Images/chickenfries.png",
     "description": "Krispy Homemade Chicken, in the Form of a Fry.",
     "category": "sides",
     "price": 4.99,
@@ -320,7 +320,7 @@
   {
     "id": 205,
     "name": "Whopper Meal",
-    "image": "/Images/whoppermeal.png",
+    "image": "Images/whoppermeal.png",
     "description": "Traditional Whopper with Fries and a Drink!",
     "category": "meals",
     "price": 9.99,
@@ -383,7 +383,7 @@
   {
     "id": 206,
     "name": "Cheeseburger",
-    "image": "/Images/bkcheeseburger.png",
+    "image": "Images/bkcheeseburger.png",
     "description": "Our Classic Cheeseburger.",
     "category": "burgers",
     "price": 2.59,
@@ -414,7 +414,7 @@
   {
     "id": 207,
     "name": "Poutine",
-    "image": "/Images/bkpoutine.png",
+    "image": "Images/bkpoutine.png",
     "description": "Golden Krispy Fries with Delicious Cheese Curds and Gravy.",
     "category": "sides",
     "price": 7.99,
@@ -442,7 +442,7 @@
   {
     "id": 208,
     "name": "Oreo Milkshake",
-    "image": "/Images/oreomilkshake.png",
+    "image": "Images/oreomilkshake.png",
     "description": "Creamy Softserve Blended With Oreos!",
     "category": "sweets",
     "price": 5.99,
@@ -464,7 +464,7 @@
   {
     "id": 101,
     "name": "Cold Cut Combo",
-    "image": "/Images/coldcut.png",
+    "image": "Images/coldcut.png",
     "description": "Build Your Own 6-Inch or Footlong Cold Cut Combo",
     "price": 8.99,
     "customizations": [
@@ -518,7 +518,7 @@
   {
     "id": 102,
     "name": "Turkey Breast",
-    "image": "/Images/turkeybreast.png",
+    "image": "Images/turkeybreast.png",
     "description": "Build Your Own 6-Inch or Footlong Turkey Breast Sub.",
     "price": 9.99,
     "customizations": [
@@ -572,7 +572,7 @@
   {
     "id": 103,
     "name": "Meatball",
-    "image": "/Images/meatball.png",
+    "image": "Images/meatball.png",
     "description": "Build Your Own 6-Inch or Footlong Meatball Sub.",
     "price": 8.59,
     "customizations": [
@@ -626,7 +626,7 @@
   {
     "id": 104,
     "name": "Pizza",
-    "image": "/Images/pizzasub.png",
+    "image": "Images/pizzasub.png",
     "description": "Build Your Own 6-Inch or Footlong Pizza Sub.",
     "price": 7.99,
     "customizations": [
@@ -680,7 +680,7 @@
   {
     "id": 105,
     "name": "Rotisserie-Style Chicken",
-    "image": "/Images/rotchicken.png",
+    "image": "Images/rotchicken.png",
     "description": "Build Your Own 6-Inch or Footlong Rotisserie-Style Chicken Sub.",
     "price": 9.99,
     "customizations": [
@@ -734,7 +734,7 @@
   {
     "id": 106,
     "name": "Black Forest Ham",
-    "image": "/Images/bfham.png",
+    "image": "Images/bfham.png",
     "description": "Build Your Own 6-Inch or Footlong Black Forest Ham Sub.",
     "price": 8.59,
     "customizations": [
@@ -788,14 +788,14 @@
   {
     "id": 107,
     "name": "Footlong Cookie",
-    "image": "/Images/footlongcookie.png",
+    "image": "Images/footlongcookie.png",
     "description": "World Famous Cookie.",
     "price": 4.99
   },
   {
     "id": 108,
     "name": "Original Chips",
-    "image": "/Images/lays.png",
+    "image": "Images/lays.png",
     "description": "Classic Lays Chips.",
     "price": 1.99
   }
@@ -805,56 +805,56 @@
     {
       "id": 101,
       "name": "Family Bucket",
-      "image": "/Images/familybucket.png",
+      "image": "Images/familybucket.png",
       "description": "Our world famous chicken, enough for the whole family.",
       "price": 29.99
     },
     {
       "id": 102,
       "name": "Famous Chicken Sandwich",
-      "image": "/Images/famouschickensandwich.png",
+      "image": "Images/famouschickensandwich.png",
       "description": "Our world famous chicken served on a brioche bun.",
       "price": 12.99
     },
     {
       "id": 103,
       "name": "Family Bucket Feast",
-      "image": "/Images/familybucketfeast.png",
+      "image": "Images/familybucketfeast.png",
       "description": "Family Bucket served with fries, popcorn chicken and two more sides of your choice.",
       "price": 39.99
     },
     {
       "id": 104,
       "name": "Popcorn Chicken Go Bucket",
-      "image": "/Images/gobucket.png",
+      "image": "Images/gobucket.png",
       "description": "A small popcorn bucket for when you're on the go!",
       "price": 6.59
     },
     {
       "id": 105,
       "name": "3 Piece Krispy Chicken Strips",
-      "image": "/Images/tenders.png",
+      "image": "Images/tenders.png",
       "description": "Delicious Krispy chicken strips.",
       "price": 5.59
     },
     {
       "id": 106,
       "name": "Snack Poutine",
-      "image": "/Images/snackpoutine.png",
+      "image": "Images/snackpoutine.png",
       "description": "Mini Poutine made with krispy fries.",
       "price": 4.99
     },
     {
       "id": 107,
       "name": "Macoroni Salad",
-      "image": "/Images/macsalad.png",
+      "image": "Images/macsalad.png",
       "description": "World famous fries with cheese curds and gravy.",
       "price": 2.99
     }, 
     {
       "id": 108,
       "name": "Pepsi",
-      "image": "/Images/bepsi.png",
+      "image": "Images/bepsi.png",
       "description": "Classic Pepsi",
       "price": 3.99
     }
@@ -864,7 +864,7 @@
     {
       "id": 101,
       "name": "Big Mac",
-      "image": "/Images/bigmac.png",
+      "image": "Images/bigmac.png",
       "description": "Two all-beef patties, with special Big Mac sauce.",
       "imageBackground": "../Images/mcdonalds.png",
       "price": 5.99
@@ -872,49 +872,49 @@
     {
       "id": 102,
       "name": "Fries",
-      "image": "/Images/fries.png",
+      "image": "Images/fries.png",
       "description": "World Famous Fries.",
       "price": 4.99
     },
     {
       "id": 103,
       "name": "6 Piece Chicken Nuggets",
-      "image": "/Images/nuggies.png",
+      "image": "Images/nuggies.png",
       "description": "Golden crispy Nuggets.",
       "price": 6.99
     },
     {
       "id": 104,
       "name": "Quarter Pounder with Cheese",
-      "image": "/Images/pounder.png",
+      "image": "Images/pounder.png",
       "description": "1/4 Pound All-Beef Patty",
       "price": 6.59
     },
     {
       "id": 105,
       "name": "McDouble",
-      "image": "/Images/mcdouble.png",
+      "image": "Images/mcdouble.png",
       "description": "Quick and Delicious two patty snack",
       "price": 3.59
     },
     {
       "id": 106,
       "name": "Cheeseburger",
-      "image": "/Images/cheeseburger.png",
+      "image": "Images/cheeseburger.png",
       "description": "Classic Cheeseburger.",
       "price": 2.99
     },
     {
       "id": 107,
       "name": "Poutine",
-      "image": "/Images/poutine.png",
+      "image": "Images/poutine.png",
       "description": "Homemade side macoroni salad",
       "price": 8.99
     }, 
     {
       "id": 108,
       "name": "Oreo McFlurry",
-      "image": "/Images/oreo.png",
+      "image": "Images/oreo.png",
       "description": "Creamy softserve mixed with Oreo!",
       "price": 4.99
     }
@@ -924,7 +924,7 @@
     {
       "id": 101,
       "name": "Big Mac",
-      "image": "/Images/bigmac.png",
+      "image": "Images/bigmac.png",
       "description": "Two all-beef patties, with special Big Mac sauce.",
       "imageBackground": "../Images/mcdonalds.png",
       "price": 5.99
@@ -932,49 +932,49 @@
     {
       "id": 102,
       "name": "Fries",
-      "image": "/Images/fries.png",
+      "image": "Images/fries.png",
       "description": "World Famous Fries.",
       "price": 4.99
     },
     {
       "id": 103,
       "name": "6 Piece Chicken Nuggets",
-      "image": "/Images/nuggies.png",
+      "image": "Images/nuggies.png",
       "description": "Golden crispy Nuggets.",
       "price": 6.99
     },
     {
       "id": 104,
       "name": "Quarter Pounder with Cheese",
-      "image": "/Images/pounder.png",
+      "image": "Images/pounder.png",
       "description": "1/4 Pound All-Beef Patty",
       "price": 6.59
     },
     {
       "id": 105,
       "name": "McDouble",
-      "image": "/Images/mcdouble.png",
+      "image": "Images/mcdouble.png",
       "description": "Quick and Delicious two patty snack",
       "price": 3.59
     },
     {
       "id": 106,
       "name": "Cheeseburger",
-      "image": "/Images/cheeseburger.png",
+      "image": "Images/cheeseburger.png",
       "description": "Classic Cheeseburger.",
       "price": 2.99
     },
     {
       "id": 107,
       "name": "Poutine",
-      "image": "/Images/poutine.png",
+      "image": "Images/poutine.png",
       "description": "World famous fries with cheese curds and gravy.",
       "price": 8.99
     }, 
     {
       "id": 108,
       "name": "Oreo McFlurry",
-      "image": "/Images/oreo.png",
+      "image": "Images/oreo.png",
       "description": "Creamy softserve mixed with Oreo!",
       "price": 4.99
     }
@@ -984,7 +984,7 @@
     {
       "id": 101,
       "name": "Big Mac",
-      "image": "/Images/bigmac.png",
+      "image": "Images/bigmac.png",
       "description": "Two all-beef patties, with special Big Mac sauce.",
       "imageBackground": "../Images/mcdonalds.png",
       "price": 5.99
@@ -992,49 +992,49 @@
     {
       "id": 102,
       "name": "Fries",
-      "image": "/Images/fries.png",
+      "image": "Images/fries.png",
       "description": "World Famous Fries.",
       "price": 4.99
     },
     {
       "id": 103,
       "name": "6 Piece Chicken Nuggets",
-      "image": "/Images/nuggies.png",
+      "image": "Images/nuggies.png",
       "description": "Golden crispy Nuggets.",
       "price": 6.99
     },
     {
       "id": 104,
       "name": "Quarter Pounder with Cheese",
-      "image": "/Images/pounder.png",
+      "image": "Images/pounder.png",
       "description": "1/4 Pound All-Beef Patty",
       "price": 6.59
     },
     {
       "id": 105,
       "name": "McDouble",
-      "image": "/Images/mcdouble.png",
+      "image": "Images/mcdouble.png",
       "description": "Quick and Delicious two patty snack",
       "price": 3.59
     },
     {
       "id": 106,
       "name": "Cheeseburger",
-      "image": "/Images/cheeseburger.png",
+      "image": "Images/cheeseburger.png",
       "description": "Classic Cheeseburger.",
       "price": 2.99
     },
     {
       "id": 107,
       "name": "Poutine",
-      "image": "/Images/poutine.png",
+      "image": "Images/poutine.png",
       "description": "World famous fries with cheese curds and gravy.",
       "price": 8.99
     }, 
     {
       "id": 108,
       "name": "Oreo McFlurry",
-      "image": "/Images/oreo.png",
+      "image": "Images/oreo.png",
       "description": "Creamy softserve mixed with Oreo!",
       "price": 4.99
     }
@@ -1044,7 +1044,7 @@
     {
       "id": 101,
       "name": "Big Mac",
-      "image": "/Images/bigmac.png",
+      "image": "Images/bigmac.png",
       "description": "Two all-beef patties, with special Big Mac sauce.",
       "imageBackground": "../Images/mcdonalds.png",
       "price": 5.99
@@ -1052,49 +1052,49 @@
     {
       "id": 102,
       "name": "Fries",
-      "image": "/Images/fries.png",
+      "image": "Images/fries.png",
       "description": "World Famous Fries.",
       "price": 4.99
     },
     {
       "id": 103,
       "name": "6 Piece Chicken Nuggets",
-      "image": "/Images/nuggies.png",
+      "image": "Images/nuggies.png",
       "description": "Golden crispy Nuggets.",
       "price": 6.99
     },
     {
       "id": 104,
       "name": "Quarter Pounder with Cheese",
-      "image": "/Images/pounder.png",
+      "image": "Images/pounder.png",
       "description": "1/4 Pound All-Beef Patty",
       "price": 6.59
     },
     {
       "id": 105,
       "name": "McDouble",
-      "image": "/Images/mcdouble.png",
+      "image": "Images/mcdouble.png",
       "description": "Quick and Delicious two patty snack",
       "price": 3.59
     },
     {
       "id": 106,
       "name": "Cheeseburger",
-      "image": "/Images/cheeseburger.png",
+      "image": "Images/cheeseburger.png",
       "description": "Classic Cheeseburger.",
       "price": 2.99
     },
     {
       "id": 107,
       "name": "Poutine",
-      "image": "/Images/poutine.png",
+      "image": "Images/poutine.png",
       "description": "World famous fries with cheese curds and gravy.",
       "price": 8.99
     }, 
     {
       "id": 108,
       "name": "Oreo McFlurry",
-      "image": "/Images/oreo.png",
+      "image": "Images/oreo.png",
       "description": "Creamy softserve mixed with Oreo!",
       "price": 4.99
     }
