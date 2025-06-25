@@ -73,7 +73,7 @@ function wireSearchBox() {
 
 /* ------------------------ Data loading --------------------------------- */
 async function loadRestaurantInfo(id) {
-  const res = await fetch("/data/restaurants.json");
+  const res = await fetch("data/restaurants.json");
   if (!res.ok) throw new Error("Failed to load restaurants.json");
 
   const restaurants = await res.json();
@@ -92,7 +92,7 @@ async function loadRestaurantInfo(id) {
 }
 
 async function loadMenuItems(id) {
-  const res = await fetch("/data/menus.json");
+  const res = await fetch("data/menus.json");
   if (!res.ok) throw new Error("Failed to load menus.json");
 
   const menus = await res.json();
